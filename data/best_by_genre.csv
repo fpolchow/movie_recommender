@@ -1,0 +1,181 @@
+movie_id,genres,weighted_rating,title
+1304,Western,0.8474161624261866,Butch Cassidy and the Sundance Kid (1969)
+590,Western,0.7966057891109579,Dances with Wolves (1990)
+3671,Western,0.7641393177405935,Blazing Saddles (1974)
+1266,Western,0.7511499152630304,Unforgiven (1992)
+3607,Western,0.75,One Little Indian (1973)
+3607,Comedy,0.75,One Little Indian (1973)
+1201,Western,0.7291429650138433,"Good, The Bad and The Ugly, The (1966)"
+3030,Western,0.6752686447473938,Yojimbo (1961)
+3037,Western,0.6724728688955015,Little Big Man (1970)
+1283,Western,0.6653091041327972,High Noon (1952)
+2951,Western,0.65125,"Fistful of Dollars, A (1964)"
+1196,War,0.8674331103678931,Star Wars: Episode V - The Empire Strikes Back (1980)
+1196,Sci-Fi,0.8673494983277593,Star Wars: Episode V - The Empire Strikes Back (1980)
+1196,Drama,0.8354809656348905,Star Wars: Episode V - The Empire Strikes Back (1980)
+1196,Adventure,0.8673494983277593,Star Wars: Episode V - The Empire Strikes Back (1980)
+1196,Action,0.8673494983277593,Star Wars: Episode V - The Empire Strikes Back (1980)
+527,War,0.8508260758196722,Schindler's List (1993)
+527,Drama,0.8262072102057193,Schindler's List (1993)
+2028,War,0.8475671790408279,Saving Private Ryan (1998)
+2028,Drama,0.8192175343998366,Saving Private Ryan (1998)
+2028,Action,0.8474929939854801,Saving Private Ryan (1998)
+110,War,0.810803353940571,Braveheart (1995)
+110,Drama,0.7846985906625541,Braveheart (1995)
+110,Action,0.810735043267434,Braveheart (1995)
+1210,War,0.8078429223141808,Star Wars: Episode VI - Return of the Jedi (1983)
+1210,Sci-Fi,0.8077623034116497,Star Wars: Episode VI - Return of the Jedi (1983)
+1210,Romance,0.8167924037460979,Star Wars: Episode VI - Return of the Jedi (1983)
+1210,Adventure,0.8077623034116497,Star Wars: Episode VI - Return of the Jedi (1983)
+1210,Action,0.8077623034116497,Star Wars: Episode VI - Return of the Jedi (1983)
+912,War,0.7794156765339499,Casablanca (1942)
+912,Romance,0.7845953208880226,Casablanca (1942)
+356,War,0.7624163962026672,Forrest Gump (1994)
+356,Romance,0.7692263243012771,Forrest Gump (1994)
+750,War,0.7611066840301786,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)
+750,Sci-Fi,0.7610684725725597,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)
+1200,War,0.7382332173096225,Aliens (1986)
+1250,War,0.7134319931789697,"Bridge on the River Kwai, The (1957)"
+593,Thriller,0.8717636625501866,"Silence of the Lambs, The (1991)"
+593,Drama,0.816459247945003,"Silence of the Lambs, The (1991)"
+2762,Thriller,0.8707361913631289,"Sixth Sense, The (1999)"
+2571,Thriller,0.8661479050263039,"Matrix, The (1999)"
+2571,Sci-Fi,0.8381897186245013,"Matrix, The (1999)"
+2571,Action,0.8381897186245013,"Matrix, The (1999)"
+608,Thriller,0.8474118120516516,Fargo (1996)
+608,Drama,0.7935023477566494,Fargo (1996)
+608,Crime,0.8602516912057302,Fargo (1996)
+50,Thriller,0.8276975564792018,"Usual Suspects, The (1995)"
+50,Crime,0.8368061013249694,"Usual Suspects, The (1995)"
+589,Thriller,0.823471121177803,Terminator 2: Judgment Day (1991)
+589,Sci-Fi,0.7948758034520504,Terminator 2: Judgment Day (1991)
+589,Action,0.7948758034520504,Terminator 2: Judgment Day (1991)
+1617,Thriller,0.8195562226670611,L.A. Confidential (1997)
+1617,Mystery,0.853638548951049,L.A. Confidential (1997)
+1617,Film-Noir,0.853638548951049,L.A. Confidential (1997)
+1617,Crime,0.831246033027482,L.A. Confidential (1997)
+1240,Thriller,0.7889889018170088,"Terminator, The (1984)"
+1240,Sci-Fi,0.7663437427267886,"Terminator, The (1984)"
+1214,Thriller,0.7834153862113848,Alien (1979)
+1214,Sci-Fi,0.7615693409851019,Alien (1979)
+1214,Horror,0.8244175966385031,Alien (1979)
+457,Thriller,0.7701161892647026,"Fugitive, The (1993)"
+260,Sci-Fi,0.8975677031093279,Star Wars: Episode IV - A New Hope (1977)
+260,Fantasy,0.8975677031093279,Star Wars: Episode IV - A New Hope (1977)
+260,Adventure,0.8975677031093279,Star Wars: Episode IV - A New Hope (1977)
+260,Action,0.8975677031093279,Star Wars: Episode IV - A New Hope (1977)
+1270,Sci-Fi,0.776571537335058,Back to the Future (1985)
+1270,Comedy,0.7490424134096691,Back to the Future (1985)
+541,Sci-Fi,0.7641680602006689,Blade Runner (1982)
+541,Film-Noir,0.8103816710411199,Blade Runner (1982)
+1197,Romance,0.8204345393950969,"Princess Bride, The (1987)"
+1197,Comedy,0.7884710294310546,"Princess Bride, The (1987)"
+1197,Adventure,0.8131747397854798,"Princess Bride, The (1987)"
+1197,Action,0.8131747397854798,"Princess Bride, The (1987)"
+2396,Romance,0.7918153982053056,Shakespeare in Love (1998)
+2396,Comedy,0.7591483323465,Shakespeare in Love (1998)
+1265,Romance,0.751212016366305,Groundhog Day (1993)
+1247,Romance,0.717893467396694,"Graduate, The (1967)"
+1307,Romance,0.7121815041726267,When Harry Met Sally... (1989)
+1230,Romance,0.704696348477392,Annie Hall (1977)
+969,Romance,0.7012884838986907,"African Queen, The (1951)"
+904,Mystery,0.7664555874820413,Rear Window (1954)
+924,Mystery,0.7628660282655692,2001: A Space Odyssey (1968)
+1252,Mystery,0.755534792138283,Chinatown (1974)
+1252,Film-Noir,0.7554820481300597,Chinatown (1974)
+913,Mystery,0.7506496450612302,"Maltese Falcon, The (1941)"
+913,Film-Noir,0.7505901107999083,"Maltese Falcon, The (1941)"
+903,Mystery,0.7124934472287515,Vertigo (1958)
+1212,Mystery,0.6996267968408395,"Third Man, The (1949)"
+1284,Mystery,0.6801013847455724,"Big Sleep, The (1946)"
+1284,Film-Noir,0.6800178455049867,"Big Sleep, The (1946)"
+1269,Mystery,0.6673783838387781,Arsenic and Old Lace (1944)
+3730,Mystery,0.658681230218598,"Conversation, The (1974)"
+919,Musical,0.8589930151338765,"Wizard of Oz, The (1939)"
+919,Children's,0.7982566835642115,"Wizard of Oz, The (1939)"
+919,Adventure,0.7525548880435755,"Wizard of Oz, The (1939)"
+1288,Musical,0.7588480722085678,This Is Spinal Tap (1984)
+1220,Musical,0.7462822427130198,"Blues Brothers, The (1980)"
+899,Musical,0.7248811912208688,Singin' in the Rain (1952)
+588,Musical,0.7193709538912265,Aladdin (1992)
+588,Children's,0.6716167036762891,Aladdin (1992)
+588,Animation,0.6850836419257309,Aladdin (1992)
+364,Musical,0.699482356733863,"Lion King, The (1994)"
+364,Children's,0.6598640158148038,"Lion King, The (1994)"
+595,Musical,0.6952900586257293,Beauty and the Beast (1991)
+1028,Musical,0.6897146098795602,Mary Poppins (1964)
+2300,Musical,0.6852317053849136,"Producers, The (1968)"
+1947,Musical,0.6839991233219325,West Side Story (1961)
+2716,Horror,0.7947902338376891,Ghostbusters (1984)
+1387,Horror,0.7737897558021982,Jaws (1975)
+3280,Horror,0.75,"Baby, The (1973)"
+1219,Horror,0.7481986423761685,Psycho (1960)
+1278,Horror,0.7461901228111999,Young Frankenstein (1974)
+1258,Horror,0.7067054978351326,"Shining, The (1980)"
+1997,Horror,0.6556134349245841,"Exorcist, The (1973)"
+1215,Horror,0.6340505315275957,Army of Darkness (1993)
+3499,Horror,0.6310974407405869,Misery (1990)
+1267,Film-Noir,0.7084426946631671,"Manchurian Candidate, The (1962)"
+922,Film-Noir,0.7058353576813536,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)
+3435,Film-Noir,0.7004658673564171,Double Indemnity (1944)
+2987,Film-Noir,0.6989889578491404,Who Framed Roger Rabbit? (1988)
+2987,Animation,0.7188755413229679,Who Framed Roger Rabbit? (1988)
+2186,Film-Noir,0.6721770482787162,Strangers on a Train (1951)
+1097,Fantasy,0.7456039007651478,E.T. the Extra-Terrestrial (1982)
+1097,Children's,0.8059717937417364,E.T. the Extra-Terrestrial (1982)
+2797,Fantasy,0.6600447164592909,Big (1988)
+1073,Fantasy,0.6462088976456174,Willy Wonka and the Chocolate Factory (1971)
+1073,Children's,0.6811307122775769,Willy Wonka and the Chocolate Factory (1971)
+2628,Fantasy,0.6398768115942028,Star Wars: Episode I - The Phantom Menace (1999)
+2174,Fantasy,0.6063963210702341,Beetlejuice (1988)
+2968,Fantasy,0.5895006871088447,Time Bandits (1981)
+2872,Fantasy,0.5893318586663542,Excalibur (1981)
+247,Fantasy,0.5771420983992764,Heavenly Creatures (1994)
+792,Fantasy,0.5625,"Hungarian Fairy Tale, A (1987)"
+2858,Drama,0.87200991831972,American Beauty (1999)
+2858,Comedy,0.87200991831972,American Beauty (1999)
+318,Drama,0.8288664962685057,"Shawshank Redemption, The (1994)"
+858,Drama,0.8230263010222466,"Godfather, The (1972)"
+858,Crime,0.882069709120916,"Godfather, The (1972)"
+858,Action,0.8467171272663264,"Godfather, The (1972)"
+296,Drama,0.7729666225897065,Pulp Fiction (1994)
+296,Crime,0.8306282767634745,Pulp Fiction (1994)
+2064,Documentary,0.8263627819548871,Roger & Me (1989)
+246,Documentary,0.8221311981733175,Hoop Dreams (1994)
+787,Documentary,0.7506273525721455,"Gate of Heavenly Peace, The (1995)"
+3881,Documentary,0.75,Bittersweet Motel (2000)
+162,Documentary,0.7280394657153736,Crumb (1994)
+1147,Documentary,0.7093183372665546,When We Were Kings (1996)
+1189,Documentary,0.6939630141842318,"Thin Blue Line, The (1988)"
+2859,Documentary,0.6810880104786253,Stop Making Sense (1984)
+3007,Documentary,0.6572632009867511,American Movie (1999)
+3338,Documentary,0.6539889167712255,For All Mankind (1989)
+1221,Crime,0.7978356371685413,"Godfather: Part II, The (1974)"
+1213,Crime,0.7789081929970902,GoodFellas (1990)
+3656,Crime,0.75,Lured (1947)
+1234,Crime,0.7268565603881161,"Sting, The (1973)"
+1089,Crime,0.7131656847766147,Reservoir Dogs (1992)
+3233,Comedy,0.7500729501021302,Smashing Time (1967)
+1830,Comedy,0.75,Follow the Bitch (1998)
+2997,Comedy,0.7494189382762058,Being John Malkovich (1999)
+1136,Comedy,0.741926045567946,Monty Python and the Holy Grail (1974)
+1,Comedy,0.7414781144776413,Toy Story (1995)
+1,Children's,0.8188696812914433,Toy Story (1995)
+1,Animation,0.8400337024554645,Toy Story (1995)
+3114,Children's,0.7781520705022282,Toy Story 2 (1999)
+3114,Animation,0.7940998867158733,Toy Story 2 (1999)
+34,Children's,0.7350557177203855,Babe (1995)
+2355,Children's,0.722805472964506,"Bug's Life, A (1998)"
+2355,Animation,0.7400043302028348,"Bug's Life, A (1998)"
+3751,Children's,0.6863111162866617,Chicken Run (2000)
+3751,Animation,0.6995448095992982,Chicken Run (2000)
+1148,Animation,0.7633446684618749,"Wrong Trousers, The (1993)"
+745,Animation,0.7385222660672551,"Close Shave, A (1995)"
+720,Animation,0.6945088372385574,Wallace & Gromit: The Best of Aardman Animation (1996)
+1223,Animation,0.6864719758194305,"Grand Day Out, A (1992)"
+1198,Adventure,0.862190445877667,Raiders of the Lost Ark (1981)
+1198,Action,0.862190445877667,Raiders of the Lost Ark (1981)
+3172,Adventure,0.75,Ulysses (Ulisse) (1954)
+480,Adventure,0.7415491289578034,Jurassic Park (1993)
+1259,Adventure,0.7298361485062251,Stand by Me (1986)
+1580,Adventure,0.725864880571171,Men in Black (1997)
